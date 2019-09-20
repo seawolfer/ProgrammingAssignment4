@@ -11,6 +11,7 @@ Steps to clean and prepare the data:
 1) Read the files containing labels for activities and features  vector
 
 2) Read test data:
+
 2.1) Read the data identifying subjects for test observations and rename columns
 2.2) Read the data containing the feature list for test observations and add descriptions
 2.3) Read the data identifying type of activity for test observations and rename columns
@@ -18,7 +19,8 @@ Steps to clean and prepare the data:
 2.5) Keep only necessary columns, Subject.Id, Activity and columns containing mean in their description
 2.6) Add the description for activity type to produce the final test data for observations
 
-3) Read training data
+3) Read training data.
+
 Reproduce steps 2.1 -> 2.6 for training data to final training data for observations 
 
 4) Merge training and test data to create one data set (training & test data have the same format, bound vertically)
