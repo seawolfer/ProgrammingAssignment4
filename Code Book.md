@@ -32,6 +32,7 @@ Reproduce steps 2.1 -> 2.6 for training data to final training data for observat
 
 5) Reshape the merged data to produce the desired format for data aggregation:
 5.1) Use melt function to prepare data for dcast aggregation.
+
 5.2) Aggregate data with dcast function to produce final (tidy) data set
 
 6) Write out csv file the tidy data set in the Data folder.
