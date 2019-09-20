@@ -26,7 +26,7 @@ Steps to clean and prepare the data:
 
 3) Read training data.
 
-	Reproduce steps 2.1 -> 2.6 for training data to final training data for observations 
+	Reproduce steps 2.1 => 2.6 for training data to final training data for observations 
 
 4) Merge training and test data to create one data set (training & test data have the same format, bound vertically)
 
