@@ -12,7 +12,7 @@ Steps to clean and prepare the data:
 
 2) Read test data:
 
-2.1) Read the data identifying subjects for test observations and rename columns
+	2.1) Read the data identifying subjects for test observations and rename columns
 
 2.2) Read the data containing the feature list for test observations and add descriptions
 
