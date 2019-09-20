@@ -1,7 +1,7 @@
-#get library for reading text files as data.frame
+# Get library for reading text files as data.frame
 library(data.table)
 
-#Start processing test data
+# Start processing test data
 
 # 1.  Read in labels to be used later for adding description to variables and observations
 
