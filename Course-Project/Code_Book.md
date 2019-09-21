@@ -1,4 +1,4 @@
-# Code book for Coursera *Getting and Cleaning Data* course project
+# Code book for Coursera *Getting and Cleaning Data* Course project
 
 This code book provides relevant information on the `tidydataset.txt` file of this repository that were generated from the `run_analysis.R` script.
 
@@ -6,7 +6,7 @@ This code book provides relevant information on the `tidydataset.txt` file of th
 
 The zip file containing the original data is located at [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 
-The following transformations was applied to the original data in order to obtain `tidy_data.txt`:
+The following transformations was applied to the original data in order to obtain `tidydataset.txt`:
 
 1. The training and test sets were merged to create one data set.
 1. The measurements on the mean and standard deviation (i.e. signals containing the strings `mean` and `std`) was extracted for each measurement, and the others were discarded.
