@@ -1,6 +1,6 @@
 # Code book for Coursera *Getting and Cleaning Data* course project
 
-This code book provides relevant information on the `tidy_data.txt` file of this repository that were generated from the `run_analysis.R` script.
+This code book provides relevant information on the `tidydataset.txt` file of this repository that were generated from the `run_analysis.R` script.
 
 ## Original Data & Transformations 
 
